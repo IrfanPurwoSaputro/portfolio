@@ -172,7 +172,7 @@ img {
 .nav__link:hover {
   position: relative;
 }
-.nav__link:hover::after {
+/* .nav__link:hover::after {
   position: absolute;
   content: "";
   width: 100%;
@@ -180,7 +180,7 @@ img {
   left: 0;
   top: 2rem;
   background-color: var(--first-color);
-}
+} */
 .nav__logo {
   color: var(--second-color);
 }
