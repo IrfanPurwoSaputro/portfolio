@@ -252,6 +252,7 @@ img {
 .display__img {
   margin-top: 1rem;
   width: 100%;
+  align-items: center;
 }
 
 /*BUTTONS*/
